@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghassenbenghorbal&label=Profile%20views&color=0e75b6&style=flat" alt="ghassenbenghorbal" /> </p>
 
-- 🌱 I’m currently learning **.NET, Fast API, Svelte, Cassandra**
+- 🌱 I’m currently learning **.NET, React**
 
 - 💬 Ask me about **Vue.js, Laravel**
 
